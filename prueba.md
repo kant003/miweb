@@ -58,7 +58,7 @@ Hola soy ~~juan~~, perdon _angel_ y estoy en clase de __informatica__
 Puedes visitar la pagina web de cebem http://www.cebem.net en internet
 
 
-![alt gatito](https://pm1.narvii.com/6897/3131d169ee2187ba1d456237021df5c63e765535r1-605-900v2_128.jpg "Un gatito mirando al cielo")
+![alt gatito](https://pm1.narvii.com/6897/3131d169ee2187ba1d456237021df5c63e765535r1-605-900v2_128.jpg "Un gatito mirando al cielo" | width=20)
 
 
 Hola soy <span style="color:red">Angel</span>
