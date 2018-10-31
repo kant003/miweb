@@ -104,3 +104,106 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+
+
+
+# Sistema respiratorio
+--
+## Pulmones
+## Traquea
+## Boca
+
+Esto está en __*negrita*__
+
+esto es ~~malo~~
+
+1. uno
+2. dos
+3. tres
+
+* uno
+* dos
+* tres
+- uno
+- dos
+- tres
++ uno
++ dos
++ tres
+
+
+* uno
+    * angel
+    * pepe
+    * bea
+* dos
+    * jose
+    * ruben
+
+me gusta http://cebem.net
+
+[esto es cebem](http://cebem.net)
+
+
+![esto es un gato](https://www.purina.es/sites/g/files/mcldtz1656/files/2017-11/Bringing-Your-Kitten-Home_0.jpg)
+
+
+![esto es un gato][gatito]
+
+
+
+[gatito]: https://www.purina.es/sites/g/files/mcldtz1656/files/2017-11/Bringing-Your-Kitten-Home_0.jpg
+
+
+Este es mi código fuente:
+
+```java
+String a = "angel"
+System.out.println(a);
+```
+
+```html
+<html>
+    <body>
+        <h1>Titulo</h1>
+    </body>
+</html>
+```
+
+
+| nombre |  ciudad | edad |
+| :----   | :---:  | ---: |
+| angel  | vigo    | 17    |
+| rosa   | **lugo** | 2    |
+| lu     | salamanca | 117 |
+
+
+Blockquote
+
+> Vini Vidi vinchi
+> Julio cesar
+>> Esto está dentro
+
+Nombre \*angel gonzalez\*
+
+@angel
+
+
+- [ ] comprar pan
+- [x] comprar huevos
+- [ ] comprar patatas
+
+:+1: 
+
+
+
+<a href="https://www.youtube.com/watch?v=OgIRAjnnJzI">
+<img src="https://www.youtube.com/watch?v=OgIRAjnnJzI" width="240"/>
+</a>
+
+[![imange](https://www.youtube.com/watch?v=OgIRAjnnJzI)](https://www.youtube.com/watch?v=OgIRAjnnJzI)
+
+
+Quiero poner [^nota1] una nota al pie
+
+[^nota1]: esto es una nota al pie
