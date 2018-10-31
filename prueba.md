@@ -3,6 +3,7 @@ Hola **Angel**
 
 <span style="color:red">Angel</span>
 
+<img  width="40" src="https://www.purina.es/sites/g/files/mcldtz1656/files/2017-11/Bringing-Your-Kitten-Home_0.jpg">
 
 
 ```diff
